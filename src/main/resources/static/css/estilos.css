@@ -1,10 +1,55 @@
 #tituloprincipal{
-    color: dodgerblue;
+    color: orchid;
     font-family: sans-serif
 }
 
+.parrafoSecundario{
+color: orangered;
+font-size: 20px
+}
 .parrafoSecundario{
 color: pink;
 font-size: 30px
 
 }
+    a:link {color: blue;
+    
+}
+a:visited {color: red;
+    
+}
+
+a:hover { background-color: orange;
+         color: white;
+         border-radius: 30px;
+    
+
+    
+}
+a:hover {
+    background-color: brown;
+         color: black;
+} 
+p:nth-child(even){
+    background-color: red;
+    
+}
+p:nth-child(odd){
+    background-color:  greenyellow;
+    
+}     
+
+body{
+    background-image: url("" );
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
